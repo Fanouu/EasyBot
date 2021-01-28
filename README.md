@@ -4,5 +4,5 @@
 
 #### 🌌 Why? 
 
--This project is aimed at people who don’t know the basics and will help them create their own bot easily
--it’s also for fun 🥳!
+- This project is aimed at people who don’t know the basics and will help them create their own bot easily
+- it’s also for fun 🥳!
