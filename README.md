@@ -1,2 +1,2 @@
 # EasyBot
-🚗Simple Discord bot made on Discord.js!
+🚲 Simple Discord bot made on Discord.js!
