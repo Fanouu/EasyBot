@@ -1,0 +1,52 @@
+{
+    "bot": {
+        "token": "ODAzNjQxMDczNzE2Mjk3NzY4.YBAvEg._hsR0RwAYuzZVEiCB0fOVGTzpyY",
+        "version": "1.0",
+        "defaultPrefix": "%",
+        "defaultLang": "fr",
+        "ap": "no"
+    },
+    "emojis": {
+        "succes": "<a:succes:803648261873205288>",
+        "error": "<a:error:803648042208460851>",
+        "latency": "<:latency:754074320321642507>",
+        "loading": "<a:waiting:750751746892234832>",
+        "information": ":information_source:",
+        "bug": ":bug:",
+        "db": "<:db:755810318487388182>",
+        "question": "<:question:755830255779971132>",
+        "command": "<:commandline:756241392694591606>",
+        "warning": "<:warn:803648513732902943>"
+    },
+    "staff": {
+        "owners": {
+            "id": [
+                "524615583447384064",
+                "488399342273822740"
+            ],
+            "name": []
+        },
+        "moderators": {
+            "id": [
+                "488399342273822740",
+                "524615583447384064"
+            ],
+            "name": []
+        },
+        "blacklist": {
+            "iduser": []
+        }
+    },
+    "color": {
+        "red": "#b70000",
+        "orange": "#ff6a00",
+        "green": "#00ff26",
+        "purple": "#d604cf",
+        "yellow": "#ffe000"
+    },
+    "db": {
+        "connect": "db-acces"
+    },
+    "everyoneMention": true,
+    "hostedBy": true
+}
