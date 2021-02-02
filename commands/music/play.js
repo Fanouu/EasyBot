@@ -1,5 +1,4 @@
-const ytdl = require("ytdl-core");
-const yts = require("yt-search");
+//Error music system not func
 const Discord = require("discord.js");
 const cfg = require("../../config.json");
 const { Util } = require("discord.js")
