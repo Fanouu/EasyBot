@@ -1,0 +1,54 @@
+{
+    "owner": {
+        "reload": "<:succes:755831895693983805> **| Bot successfully reloaded !**"
+    },
+    "general": {
+        "ping": {
+            "apiL": "Api latency",
+            "botL": "Bot latency"
+        },
+        "help": {
+            "autorisation": "Required Autorisations",
+            "title": "Shield's help"
+        },
+        "about": {
+            "title": "**» Bot informations**",
+            "stats": "📊 • Statistics",
+            "uptime": "⌛ • Uptime",
+            "ram": "💾 • RAM",
+            "processor": "💻 • Processor",
+            "versions": "📃 • Versions",
+            "name": "<:label:750780936320450631> • Name",
+            "id": "<:id:750780969270771893> • ID",
+            "commands": "<:dev:750297694509203493> • Commands",
+            "ping": "<:latency:754074320321642507> • Ping"
+        }
+    }, 
+    "admin": {
+        "setprefix": {
+            "title": "✍️ Prefix changement",
+            "now": "Now, the prefix is"
+        },
+        "setlang": {
+            "ad": "The language is aldready set to english !",
+            "change": "🌎 Changment of language",
+            "now": "Now, the language is"
+        },
+        "antipub": {
+            "ad": "Anti-pub is aldready defined to this value"
+        },
+        "setlogs": {
+            "title": "📝 New log Channel"
+        },
+        "setsugges": {
+            "title": "New suggestion channel!"
+        }
+
+    },
+    "moderation": {
+        "noReason": "No specified reason..."
+    },
+    "other": {
+        "ads": "**<a:warn:750717610370269285> Do not send ads**"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "owner": {
+        "reload": "<:succes:755831895693983805> **| Le bot a bien été redémarré !**"
+    },
+    "general": {
+        "ping": {
+            "apiL": "Latence de l'api",
+            "botL": "Latence du bot"
+        },
+        "help": {
+            "autorisation": "Autorisations Requises",
+            "title": "Aide de Hisoka"
+        },
+        "about": {
+            "title": "**» Informations sur le bot**",
+            "stats": "📊 • Statistiques",
+            "uptime": "⌛ • Uptime",
+            "ram": "💾 • Mémore Vive",
+            "processor": "💻 • Processeur",
+            "versions": "📃 • Versions",
+            "name": ":label: • Nom",
+            "id": "<:idbot:762745204833779794> • ID",
+            "commands": "<:dev:762724408200527953> • Commandes",
+            "ping": "<:latency:762726255996698624> • Latence"
+        }
+    }, 
+    "admin": {
+        "setprefix": {
+            "title": "✍️ Changement de prefix",
+            "now": "Le prefix est désormais"
+        },
+        "setlang": {
+            "ad": "Le langage est déjà définis sur français !",
+            "change": "🌎 Changement de langue",
+            "now": "La langue désormais utilisée est"
+        },
+        "antipub": {
+            "ad": "L'anti pub est déjà définis sur cette valeure"
+        },
+        "setlogs": {
+            "title": "📝 Nouveau salon de log"
+        },
+        "setsugges": {
+            "title": "Nouveau salon des suggestion!"
+        }
+    },
+    "moderation": {
+        "noReason": "Aucune raison spécifiée..."
+    },
+    "other": {
+        "ads": "**<a:warn:750717610370269285> N'envoie pas de pubs !**"
+    }
+}
