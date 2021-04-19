@@ -13,4 +13,4 @@
 > enjoy yourselves 🎈!
 
 
- Made on 💻 with ❤️ by [Fan](https://discord.com/users/524615583447384064)
+ Made on 💻 with ❤️ by [Fan](https://discord.com/users/524615583447384064) and by [Rome](https://discord.com/users/709481084286533773)
